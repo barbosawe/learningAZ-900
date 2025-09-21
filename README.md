@@ -3,11 +3,11 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 #Computação em nuvem: domínio do objetivo 
 
-## 1. Computação em Nuvem no Azure
+# 1. Computação em Nuvem no Azure
 
 No Microsoft Azure, a computação em nuvem é o fornecimento de serviços de TI (máquinas virtuais, bancos de dados, redes, inteligência artificial, armazenamento e muito mais) através da plataforma da Microsoft, com escalabilidade, alta disponibilidade e pagamento sob demanda.
 
-## 2. Modelos de Nuvem no Azure
+# 2. Modelos de Nuvem no Azure
 
 Nuvem Pública (Azure Public Cloud):
 > Serviços hospedados e gerenciados pela Microsoft em seus datacenters globais, acessíveis pela internet.
@@ -35,7 +35,7 @@ Combinação entre nuvem pública do Azure e infraestrutura local da empresa.
 > Azure ExpressRoute – conexão privada entre infraestrutura local e Azure.
 > Azure Backup e Site Recovery – integração entre on-premises e nuvem.
 
-## 3. Casos de Uso Apropriados para Cada Modelo no Azure
+# 3. Casos de Uso Apropriados para Cada Modelo no Azure
 Modelo	Produtos Azure	Casos de Uso
 > Nuvem Pública	Azure Virtual Machines, Azure SQL Database, Azure Blob Storage, Azure App Service	Startups e empresas que querem escalar rapidamente; aplicações web; soluções de Big Data; backup em nuvem.
 > Nuvem Privada	Azure Stack Hub, Azure Arc:	Organizações que precisam de total controle e conformidade (bancos, hospitais, governo); workloads sensíveis que não podem ir à nuvem pública.
