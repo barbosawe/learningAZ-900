@@ -1,4 +1,4 @@
-# learningAZ-900
+# LearningAZ-900
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, referentes a Certificação da Microsoft AZ-900.
 
 <sub> Computação em nuvem: domínio do objetivo </sub> 
@@ -38,5 +38,7 @@ Combinação entre nuvem pública do Azure e infraestrutura local da empresa.
 # 3. Casos de Uso Apropriados para Cada Modelo no Azure
 Modelo	Produtos Azure	Casos de Uso
 > Nuvem Pública	Azure Virtual Machines, Azure SQL Database, Azure Blob Storage, Azure App Service	Startups e empresas que querem escalar rapidamente; aplicações web; soluções de Big Data; backup em nuvem.
+
 > Nuvem Privada	Azure Stack Hub, Azure Arc:	Organizações que precisam de total controle e conformidade (bancos, hospitais, governo); workloads sensíveis que não podem ir à nuvem pública.
+
 > Nuvem Híbrida	Azure Arc, Azure ExpressRoute, Azure Backup, Azure Site Recovery: Empresas que fazem migração gradual para nuvem; integração de sistemas locais com a nuvem; continuidade de negócios e recuperação de desastres.
